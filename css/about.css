@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 .main2{  
-    background: linear-gradient(to right,rgb(255 255 255 / 20%),rgb(181 181 181 / 30%)),url(/img/home.jpg);
+    background: linear-gradient(to right,rgb(255 255 255 / 20%),rgb(181 181 181 / 30%)),url(../img/home.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;

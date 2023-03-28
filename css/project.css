@@ -18,7 +18,7 @@
 }
 
 .img1:hover{
-    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(/img/project1.jpg);
+    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(../img/project1.jpg);
 }
 
 .img1:hover .btn{
@@ -26,7 +26,7 @@
 }
 
 .img2:hover{
-    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(/img/project2.jpg);
+    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(../img/project2.jpg);
 }
 
 .img2:hover .btn{
@@ -34,7 +34,7 @@
 }
 
 .img3:hover{
-    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(/img/project3.jpg);
+    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(../img/project3.jpg);
 }
 
 .img3:hover .btn{
@@ -42,7 +42,7 @@
 }
 
 .img4:hover{
-    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(/img/project4.jpg);
+    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(../img/project4.jpg);
 }
 
 .img4:hover .btn{
@@ -50,7 +50,7 @@
 }
 
 .img5:hover{
-    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(/img/project5.jpg);
+    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(../img/project5.jpg);
 }
 
 .img5:hover .btn{
@@ -58,7 +58,7 @@
 }
 
 .img6:hover{
-    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(/img/project6.jpg);
+    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(../img/project6.jpg);
 }
 
 .img6:hover .btn{
@@ -66,27 +66,27 @@
 }
 
 .img1{
-    background-image: url(/img/project1.jpg);
+    background-image: url(../img/project1.jpg);
 }
 
 .img2{
-    background-image: url(/img/project2.jpg);
+    background-image: url(../img/project2.jpg);
 }
 
 .img3{
-    background-image: url(/img/project3.jpg);
+    background-image: url(../img/project3.jpg);
 }
 
 .img4{
-    background-image: url(/img/project4.jpg);
+    background-image: url(../img/project4.jpg);
 }
 
 .img5{
-    background-image: url(/img/project5.jpg);
+    background-image: url(../img/project5.jpg);
 }
 
 .img6{
-    background-image: url(/img/project6.jpg);
+    background-image: url(../img/project6.jpg);
 }
 
 .main2 h2{
