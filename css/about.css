@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.main2{  
+    background: linear-gradient(to right,rgb(255 255 255 / 20%),rgb(181 181 181 / 30%)),url(/img/home.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.bio{
+    position: fixed;
+    top: 25%;
+    margin: 10px;
+}
+
+.info{
+    margin-bottom: 20px;
+}
+
+.info h2{
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+.exp{
+    display: flex;
+    background-color: rgba(255, 113, 62);
+    border-radius: 10px;
+}
+
+.exp_item{
+    padding: 10px;
+}
+
+.exp_item h3, .exp_item h4, .exp_item p{
+    color: white;
+}

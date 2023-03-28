@@ -1,0 +1,127 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 5%;
+    justify-content: space-around;
+    row-gap: 20px;
+    padding: 10px 20px;
+}
+
+.flex_item{
+    height: 200px;
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 0px 5px var(--orange);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img1:hover{
+    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(/img/project1.jpg);
+}
+
+.img1:hover .btn{
+    display: block;
+}
+
+.img2:hover{
+    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(/img/project2.jpg);
+}
+
+.img2:hover .btn{
+    display: block;
+}
+
+.img3:hover{
+    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(/img/project3.jpg);
+}
+
+.img3:hover .btn{
+    display: block;
+}
+
+.img4:hover{
+    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(/img/project4.jpg);
+}
+
+.img4:hover .btn{
+    display: block;
+}
+
+.img5:hover{
+    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(/img/project5.jpg);
+}
+
+.img5:hover .btn{
+    display: block;
+}
+
+.img6:hover{
+    background: linear-gradient(to right, rgba(249, 246, 246,0.4),rgba(249, 246, 246,0.4)),url(/img/project6.jpg);
+}
+
+.img6:hover .btn{
+    display: block;
+}
+
+.img1{
+    background-image: url(/img/project1.jpg);
+}
+
+.img2{
+    background-image: url(/img/project2.jpg);
+}
+
+.img3{
+    background-image: url(/img/project3.jpg);
+}
+
+.img4{
+    background-image: url(/img/project4.jpg);
+}
+
+.img5{
+    background-image: url(/img/project5.jpg);
+}
+
+.img6{
+    background-image: url(/img/project6.jpg);
+}
+
+.main2 h2{
+    padding-top: 10%;
+    text-align: center;
+}
+
+.btn{
+    display: none;
+    background-color: var(--orange);
+    color: white;
+    margin-right:15px;
+    text-align: center;
+    border-radius: 10px;
+    transition: .5s ease;
+}
+
+.btn:hover{
+    background-color: white;
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn a:hover{    
+    color: var(--orange);
+    cursor: pointer;
+}
+
+.btn i{
+    padding: 20px 20px 0px 20px;
+}
+
+.btn p{
+    padding: 0px 10px 10px 10px;
+}
